@@ -32,21 +32,21 @@ export const PROJECTS: Project[] = [
 ];
 
 export const SKILLS: Skill[] = [
-  { name: 'React', level: 95, icon: 'https://cdn.simpleicons.org/react/61DAFB', category: 'Frontend' },
-  { name: 'TypeScript', level: 92, icon: 'https://cdn.simpleicons.org/typescript/3178C6', category: 'Frontend' },
-  { name: 'Flutter', level: 85, icon: 'https://cdn.simpleicons.org/flutter/02569B', category: 'Frontend' },
-  { name: 'HTML5', level: 98, icon: 'https://cdn.simpleicons.org/html5/E34F26', category: 'Frontend' },
-  { name: 'CSS3', level: 95, icon: 'https://cdn.simpleicons.org/css3/1572B6', category: 'Frontend' },
+  { name: 'React', level: 95, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg', category: 'Frontend' },
+  { name: 'TypeScript', level: 92, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg', category: 'Frontend' },
+  { name: 'Flutter', level: 85, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg', category: 'Frontend' },
+  { name: 'HTML5', level: 98, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg', category: 'Frontend' },
+  { name: 'CSS3', level: 95, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg', category: 'Frontend' },
+  { name: 'JavaScript', level: 95, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg', category: 'Frontend' },
   
-  { name: 'Python', level: 90, icon: 'https://cdn.simpleicons.org/python/3776AB', category: 'Backend' },
-  { name: 'Java', level: 88, icon: 'https://cdn.simpleicons.org/openjdk/FF3E00', category: 'Backend' },
-  { name: 'PHP', level: 80, icon: 'https://cdn.simpleicons.org/php/777BB4', category: 'Backend' },
-  { name: 'SQL', level: 85, icon: 'https://cdn.simpleicons.org/postgresql/4169E1', category: 'Backend' },
+  { name: 'Python', level: 90, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg', category: 'Backend' },
+  { name: 'Java', level: 88, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg', category: 'Backend' },
+  { name: 'PHP', level: 80, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg', category: 'Backend' },
+  { name: 'SQL', level: 85, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg', category: 'Backend' },
   
-  { name: 'C++', level: 85, icon: 'https://cdn.simpleicons.org/cplusplus/00599C', category: 'Tools' },
-  { name: 'C#', level: 82, icon: 'https://cdn.simpleicons.org/csharp/239120', category: 'Tools' },
-  { name: 'C', level: 80, icon: 'https://cdn.simpleicons.org/c/A8B9CC', category: 'Tools' },
-  { name: 'JavaScript', level: 95, icon: 'https://cdn.simpleicons.org/javascript/F7DF1E', category: 'Frontend' }
+  { name: 'C++', level: 85, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg', category: 'Tools' },
+  { name: 'C#', level: 82, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg', category: 'Tools' },
+  { name: 'C', level: 80, icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg', category: 'Tools' }
 ];
 
 export const EXPERIENCES: Experience[] = [
