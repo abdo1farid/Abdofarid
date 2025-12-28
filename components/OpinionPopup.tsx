@@ -212,8 +212,7 @@ const OpinionPopup: React.FC<OpinionPopupProps> = ({ isOpen, onClose }) => {
                             <div className="flex flex-wrap gap-4">
                               {[
                                 { name: 'LinkedIn', icon: <Linkedin size={16} />, href: 'https://www.linkedin.com/in/abderrahmane-farid-9477aa2b6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' },
-                                { name: 'GitHub', icon: <Github size={16} />, href: 'https://github.com/abdo1farid' },
-                                { name: 'Instagram', icon: <Instagram size={16} />, href: 'https://www.instagram.com/master_.dev' }
+                                { name: 'GitHub', icon: <Github size={16} />, href: 'https://github.com/abdo1farid' }
                               ].map((s) => (
                                 <a 
                                   key={s.name}
